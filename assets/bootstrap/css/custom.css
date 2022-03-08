@@ -1,0 +1,138 @@
+.navbarcustom{
+    float: left;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.about{
+    text-align: center;
+    background-color: skyblue;
+    background: url(assets/images/hill.jpg);
+    height: 30vh;
+    padding-top: 45px;
+    color: #ffffff;
+}
+.head{
+    color: #ffffff;
+    font-size: 40px;
+}
+a {
+    color: rgb(26, 27, 110);
+    background-color: unset;
+}
+.elicit{
+    text-align: center;
+
+    background-color: #ffffff;
+    height: 20vh;
+    padding-top:20px;
+    color: #000000;
+}
+.more{
+    color: #000000;
+    font-size: 30px;
+
+}
+.offer{
+    float: left;
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 100vh;
+    margin-left: 5%;
+    border-radius: 8%;
+    opacity: 60%;
+
+}
+img{
+    height: 20vh;
+    width: 100%;
+    border-radius: 8%;
+}
+.explain{
+    height: 80vh;
+    width: 24%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+b{
+    text-align: center;
+}
+.feedback{
+    height: 100vh;
+    display: flex;
+    width: 80%;
+    align-content: center;
+    justify-content: space-between;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+.response{
+    width: 100%;
+    text-align: unset;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+.response img{
+    height: 20vh;
+    width: 30%;
+    border-radius: 8px;
+}
+.contain{
+    text-align: center;
+    width: 100%;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.my_footer{
+    background-color: #2d2b2b;
+    margin-bottom: 0;
+}
+.container{
+    color: #ffffff;
+    text-align: center;
+}
+.off{
+    float: left;
+    display: flex;
+    padding-left: 2%;
+    padding-right: 2%;
+    height: 24vh;
+    margin-left: 5%;
+    opacity: 60%;
+
+}
+.feed{
+    align-content: center;
+    text-align: center;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 50vh;
+}
+input{
+    width: 30%;
+    height: 4vh;
+    border-radius: 8px;
+}
+button{
+    background-color: #17245f;
+    width: 10%;
+    height: 4vh;
+    border-radius: 8px;
+    border: unset;
+}
+.footer {
+    width: 100%;
+    height: auto;
+    float: left;
+    justify-content: space-between;
+}
